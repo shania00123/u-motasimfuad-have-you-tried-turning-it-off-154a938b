@@ -37,3 +37,10 @@ line. Rival: G, the strongest classic-twist line.
 Honest caveat: margins were 2/5, not decisive 4–5. This is a judged entry;
 no local duel proves a 99% score. J is the strongest line by calibrated
 blind judging, shipped for the parent's gate decision.
+
+## Parent judge verdict (post-build)
+
+A parent-run independent blind judge compared J against rival G in both
+orders and preferred G in both, margin 2 each time. The entry was swapped
+to G: "Have you tried turning it off, waiting ten seconds, and making peace
+with whatever happens next?"
